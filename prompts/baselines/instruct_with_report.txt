@@ -1,0 +1,9 @@
+Translate the Source Text from {src_lang} into {tgt_lang}. Do not output any explanations.
+
+[Reference Information]
+{feature_analysis_json}
+
+[Source Text]:
+{source_text}
+
+[Translation]:

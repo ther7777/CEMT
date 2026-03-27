@@ -1,0 +1,2 @@
+Translate the flowing text into {target_lang}, do not explain：
+{source_text}

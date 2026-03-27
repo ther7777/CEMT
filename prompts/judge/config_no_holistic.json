@@ -1,0 +1,20 @@
+{
+    "prompt_file": "prompts/judge/judge_no_holistic.txt",
+    "score_mapping": {
+      "plan_keys": [
+        "argument_evaluation",
+        "syntactic_evaluation",
+        "strategy_and_grounding_evaluation",
+        "incremental_response_evaluation"
+      ],
+      "execution_key": "execution_and_fidelity_check"
+    },
+    "penalty_map": {
+      "5": 0.0,
+      "4": -0.2,
+      "3": -0.4,
+      "2": -0.8,
+      "1": -1.5,
+      "0": -1.5
+    }
+  }

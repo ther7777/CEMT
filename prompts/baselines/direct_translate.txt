@@ -1,0 +1,6 @@
+Translate the Source Text from {src_lang} into {tgt_lang}. Do not output any explanations.
+
+[Source Text]:
+{source_text}
+
+[Translation]:

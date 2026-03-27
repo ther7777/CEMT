@@ -1,0 +1,16 @@
+{
+    "prompt_file": "prompts/judge/judge_baseline_no_element.txt",
+    "reward_logic": "v3_addition_penalty",
+    "score_mapping": {
+      "plan_keys": [
+        "holistic_evaluation",
+        "argument_evaluation",
+        "syntactic_evaluation",
+        "strategy_and_grounding_evaluation"
+      ],
+      "execution_key": "execution_and_fidelity_check"
+    },
+    "penalty_map": {
+      "5": 0.0, "4": -0.2, "3": -0.4, "2": -0.8, "1": -1.5, "0": -1.5
+    }
+  }

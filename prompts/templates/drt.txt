@@ -1,0 +1,2 @@
+Please translate the following text from {source_lang} to {target_lang}:
+{source_text}
