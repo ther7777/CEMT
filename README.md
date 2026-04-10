@@ -1,5 +1,7 @@
 # CEMT
 
+This work is developed at **China Telecom AI Technology Co., Ltd.**
+
 [English](README.md) | [中文](README_ZH.md)
 
 This repository contains the code and data for CEMT.
@@ -266,7 +268,17 @@ After training is complete, use verl's model merger tool to convert FSDP weights
 
 ## Citation
 
-If you find this repository helpful for your research, please consider citing CEMT.
+If you find this repository helpful for your research, please consider citing CEMT:
+
+```bibtex
+@inproceedings{shi2026cemt,
+    title={CEMT: Chain-of-Thought Enhanced Machine Translation},
+    author={Lingling Shi and Haoyu Jin and Ruiyu Fang and Shuangyong Song and Jinsong Su and Yongxiang Li and Xuelong Li},
+    booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+    year={2026},
+    publisher={Association for Computational Linguistics},
+}
+```
 
 ## Acknowledgements
 

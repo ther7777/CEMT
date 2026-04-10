@@ -1,5 +1,7 @@
 # CEMT
 
+本工作于 **中国电信人工智能研究院（China Telecom AI Technology Co., Ltd.）** 开发完成。
+
 [English](README.md) | [中文](README_ZH.md)
 
 本仓库包含 CEMT 的代码和数据。
@@ -266,7 +268,17 @@ ray start --address="<CoT 评估主节点 IP>:6379"
 
 ## 引用
 
-如果你觉得本仓库对你的研究有帮助，欢迎引用 CEMT。
+如果你觉得本仓库对你的研究有帮助，欢迎引用 CEMT：
+
+```bibtex
+@inproceedings{shi2026cemt,
+    title={CEMT: Chain-of-Thought Enhanced Machine Translation},
+    author={Lingling Shi and Haoyu Jin and Ruiyu Fang and Shuangyong Song and Jinsong Su and Yongxiang Li and Xuelong Li},
+    booktitle={Findings of the Association for Computational Linguistics: ACL 2026},
+    year={2026},
+    publisher={Association for Computational Linguistics},
+}
+```
 
 ## 致谢
 
